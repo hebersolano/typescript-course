@@ -1,3 +1,5 @@
+[TypeScript Course]('https://members.codewithmosh.com/')
+
 `tsc` typescript compiler
 
 # stconfig.json

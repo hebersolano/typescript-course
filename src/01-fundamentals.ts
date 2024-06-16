@@ -12,7 +12,7 @@ let course: string = "TypeScript";
 let is_published: boolean = true;
 let level;
 
-function render(document: any) {
+function render2(document: any) {
   console.log(document);
 }
 
