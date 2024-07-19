@@ -72,5 +72,5 @@ function reject(message) {
 }
 // processEvents();
 reject("...");
-console.log("Hello world");
+// console.log("Hello world");
 //# sourceMappingURL=02-advanced-types.js.map
