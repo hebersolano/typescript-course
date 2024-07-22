@@ -1,5 +1,5 @@
 // Convert the function below to a generic function:
-function echo<T>(arg: T): T {
+function echo3<T>(arg: T): T {
   return arg;
 }
 

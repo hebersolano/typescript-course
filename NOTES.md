@@ -19,6 +19,7 @@
 - "strictNullChecks": true, /_ When type checking, take into account 'null' and 'undefined'. _/
 - "allowUnreachableCode": true, /_ Disable error reporting for unreachable code. _/
 - "noImplicitOverride": true, /_ Ensure overriding members in derived classes are marked with an override modifier. _/
+- "experimentalDecorators": true, /_ Enable experimental support for legacy experimental decorators. _/
 
 # Fundamentals
 
