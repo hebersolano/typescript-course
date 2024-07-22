@@ -10,7 +10,7 @@ let sales = 123456789;
 let course = "TypeScript";
 let is_published = true;
 let level;
-function render(document) {
+function render2(document) {
     console.log(document);
 }
 // arrays
