@@ -18,6 +18,7 @@
 - "noUnusedLocals": true, /_ Enable error reporting when local variables aren't read. _/
 - "strictNullChecks": true, /_ When type checking, take into account 'null' and 'undefined'. _/
 - "allowUnreachableCode": true, /_ Disable error reporting for unreachable code. _/
+- "noImplicitOverride": true, /_ Ensure overriding members in derived classes are marked with an override modifier. _/
 
 # Fundamentals
 
@@ -34,3 +35,7 @@
 - never
 - enum
 - tuple
+
+## Priciples
+
+- Open Closed Principle: classes should be open for extension and closed for modification
