@@ -20,6 +20,8 @@
 - "allowUnreachableCode": true, /_ Disable error reporting for unreachable code. _/
 - "noImplicitOverride": true, /_ Ensure overriding members in derived classes are marked with an override modifier. _/
 - "experimentalDecorators": true, /_ Enable experimental support for legacy experimental decorators. _/
+- "module": "commonjs" /_ Specify what module code is generated. "CommonJS, ES2015, ES2020, ES2022" _/,
+- "moduleResolution": "node10", /_ Specify how TypeScript looks up a file from a given module specifier. "Node" let's you use index file for re-exporting several objects_/
 
 # Fundamentals
 
