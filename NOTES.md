@@ -22,6 +22,8 @@
 - "experimentalDecorators": true, /_ Enable experimental support for legacy experimental decorators. _/
 - "module": "commonjs" /_ Specify what module code is generated. "CommonJS, ES2015, ES2020, ES2022" _/,
 - "moduleResolution": "node10", /_ Specify how TypeScript looks up a file from a given module specifier. "Node" let's you use index file for re-exporting several objects_/
+- "allowJs": true, /_ Allow JavaScript files to be a part of your program. Use the 'checkJS' option to get errors from these files. _/
+- "checkJs": true, /_ Enable error reporting in type-checked JavaScript files. _/
 
 # Fundamentals
 
